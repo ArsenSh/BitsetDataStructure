@@ -1,4 +1,4 @@
-# BitsetDataStructure (unsigned unsigned long long array)
+# BitsetDataStructure (unsigned long long array)
 # Manipulating a set of bits is an often desired task in C++
 # Here the bitset can do the following actions presented below
 
